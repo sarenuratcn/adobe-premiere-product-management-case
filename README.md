@@ -11,7 +11,6 @@ The project analyzes Adobe Premiere Pro from a product management perspective, c
 - Product Life Cycle Analysis
 - User Persona
 - Value Proposition Canvas
-- TAM–SAM–SOM Market Analysis
 - Competitive Analysis
 - Competitor Mapping
 - Product Strategy
